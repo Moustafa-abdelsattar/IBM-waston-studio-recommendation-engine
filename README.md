@@ -113,8 +113,8 @@ The implemented recommendation system effectively captures user preferences and 
 To set up this project, clone the repository and install the required libraries:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/Moustafa-abdelsattar/IBM-waston-studio-recommendation-engine.git
+cd IBM-waston-studio-recommendation-engine
 pip install -r requirements.txt
 
 

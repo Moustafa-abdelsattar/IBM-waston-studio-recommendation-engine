@@ -92,6 +92,7 @@ An enhanced version of the first approach, improving the recommendation process 
 **Scalability and Performance:** Increased dataset sizes can slow down cosine similarity computations, necessitating efficient algorithms for responsiveness.
 
 **Complexity of User Preferences:** User interests can be multifaceted; a content-based approach may not fully capture preferences, requiring hybrid methods for better recommendations.
+
 ---
 ### 7. Future Improvements
 **User Feedback Incorporation**
@@ -102,6 +103,7 @@ Combining content-based and collaborative filtering methods creates a more robus
 
 **Scalability Enhancements**
 Implementing efficient algorithms and leveraging cloud computing ensures the recommendation system can handle growing data volumes without sacrificing performance.
+
 ---
 ### 8. Conclusion
 The implemented recommendation system effectively captures user preferences and identifies areas for improvement, such as integrating user feedback and enhancing scalability. Future work will focus on refining these strategies to create a more robust and adaptable recommendation framework.

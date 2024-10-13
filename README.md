@@ -1,5 +1,6 @@
 # Building a Recommendation Engine with IBM Watson Studio Data
 ## Exploring Rank-Based, Collaborative Filtering, and Matrix Factorization for Enhanced Accuracy in Recommender Systems
+---
 
 ## Table of Contents titles:
 ---
@@ -14,7 +15,11 @@
 9. [Conclusion](Conlusion)
 10. [Installation](Installation)
 
+---
+
 ### 1. Overview
+
+---
 
 ### 2.Data Exploration and Preprocessing
 
@@ -26,12 +31,14 @@
   - Identified the most viewed article and calculated important statistics such as the number of unique users, articles, and interactions.
 
 - **User Anonymization**: Mapped user emails to unique identifiers to maintain privacy, allowing for efficient data processing in later stages.
-- 
+
+---
 ### 3. Rank-Based Recommendation System
 
 Rank-based filtering recommends articles by ranking them according to their popularity, measured by the number of user interactions. This method suggests the most frequently interacted-with articles, assuming they are of higher interest to users.
+---
 
-### Collaborative Filtering (User-User)
+### 4. Collaborative Filtering (User-User)
 #### 1. `user_user_recs`
 
 **Description:**  

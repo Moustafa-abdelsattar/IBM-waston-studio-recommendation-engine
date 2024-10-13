@@ -109,17 +109,13 @@ Implementing efficient algorithms and leveraging cloud computing ensures the rec
 ### 8. Conclusion
 The implemented recommendation system effectively captures user preferences and identifies areas for improvement, such as integrating user feedback and enhancing scalability. Future work will focus on refining these strategies to create a more robust and adaptable recommendation framework.
 ### 9. Installation
-**Clone the repository:**
-git clone [repository_url]
-cd [repository_directory]
+## 11. Installation
+To set up this project, clone the repository and install the required libraries:
 
-**(Optional) Create a virtual environment:**
-python -m venv venv
-source venv/bin/activate (or venv\Scripts\activate on Windows)
-
-**Install required packages:**
+```bash
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
 pip install -r requirements.txt
-
 
 
 

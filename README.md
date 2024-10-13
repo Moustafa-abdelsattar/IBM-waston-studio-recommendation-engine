@@ -35,6 +35,7 @@ This project developed a comprehensive recommendation system utilizing rank-base
 ### 3. Rank-Based Recommendation System
 
 Rank-based filtering recommends articles by ranking them according to their popularity, measured by the number of user interactions. This method suggests the most frequently interacted-with articles, assuming they are of higher interest to users.
+
 ---
 
 ### 4. Collaborative Filtering (User-User)

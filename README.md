@@ -18,6 +18,7 @@
 
 ### 1. Overview
 This project developed a comprehensive recommendation system utilizing rank-based filtering, collaborative filtering, and matrix factorization to enhance user experience. Key insights were gained through data exploration and preprocessing, addressing challenges like data discrepancies and sparse interactions.
+
 ---
 
 ### 2.Data Exploration and Preprocessing

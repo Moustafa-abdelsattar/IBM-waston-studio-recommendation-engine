@@ -1,22 +1,22 @@
 # Building a Recommendation Engine with IBM Watson Studio Data
 ## Exploring Rank-Based, Collaborative Filtering, and Matrix Factorization for Enhanced Accuracy in Recommender Systems
-Here are the **Table of Contents titles**:
+
+## Table of Contents titles:
 ---
-1. Overview
-2. Data Exploration and Preprocessing
-3. Rank-Based Recommendation System
-4. Collaborative Filtering (User-User)
-5. Matrix Factorization
-6. Challenges and Data Issues
-7. Model Evaluation and Performance
-8. Known Issues and Future Improvements
-9. Conclusion
-10. Installation
---- 
+1. [Overview](#overview)
+2. [Data Exploration and Preprocessing](#Data-Exploration-and-Preprocessing)
+3. [Rank-Based Recommendation System](#Rank-Based-Recommendation-System)
+4. [Collaborative Filtering (User-User)](#Collaborative-Filtering-(User-User))
+5. [Matrix Factorization](#Matrix-Factorization)
+6. [Challenges and Data Issues](#Cahllenges-and-Data-Issues)
+7. [Model Evaluation and Performance](#Model-Evalation-and-Performance)
+8. [Known Issues and Future Improvements](#Known-Issues-and*Future-Improvements)
+9. [Conclusion](Conlusion)
+10. [Installation](Installation)
 
+### 1. Overview
 
-### Overview
-### Data Exploration and Preprocessing
+### 2.Data Exploration and Preprocessing
 
 - **Data Analysis**: Conducted an exploratory analysis to understand user interactions with articles. This included visualizing the distribution of interactions and identifying patterns in user behavior.
   
